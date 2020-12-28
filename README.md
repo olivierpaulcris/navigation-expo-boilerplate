@@ -1,2 +1,2 @@
-# navigation-xample-app
-Application using React Native and Expo.
+# navigation-expo-boilerplate
+React Native and Expo boilerplate.
